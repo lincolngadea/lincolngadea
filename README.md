@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Web Development](Web Development)
 
-- 📫 How to reach me **lincoln@glinc.com.br / +55 75 9 9101-0710**
+- 📫 How to reach me **lincoln@glinc.com.br**
 
 - 📄 Know about my experiences [https://lincolngadea.com.br](https://lincolngadea.com.br)
 
