@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lincoln Silva Gadéa</h1>
-<h3 align="center">I am a Java Backend developer at ZUP INNOVATION, passionate about programming...</h3>
+<h3 align="center">I am a Kotlin Backend developer at ZUP INNOVATION, passionate about programming...</h3>
 
 ![Snake animatioon](https://github.com/lincolngadea/lincolngadea/blob/master/github-user-contribution.svg)
 
