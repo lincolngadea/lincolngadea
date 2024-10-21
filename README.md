@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on [User Managment](https://github.com/lincolngadea/gerenciador-de-usuarios-javascript)
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, ReactJS and Reactnative**
+- 🌱 I’m currently learning **Python, IA, Machine Learning, Terraform, Java and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://lincolngadea.com.br](https://lincolngadea.com.br)
+- 👨‍💻 All of my projects are available at [https://lincolngadea.com](https://lincolngadea.com)
 
 - 📝 I regularly write articles on [Web Development](Web Development)
 
-- 📫 How to reach me **lincoln@glinc.com.br**
+- 📫 How to reach me **by linkedin: lincolngadea**
 
-- 📄 Know about my experiences [https://lincolngadea.com.br](https://lincolngadea.com.br)
+- 📄 Know about my experiences [https://lincolngadea.com](https://lincolngadea.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
