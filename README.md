@@ -14,10 +14,3 @@
 - 📫 How to reach me **by linkedin: lincolngadea**
 
 - 📄 Know about my experiences [https://lincolngadea.com](https://lincolngadea.com)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lincolngadea&show_icons=true&locale=en&layout=compact" alt="lincolngadea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolngadea&show_icons=true&locale=en" alt="lincolngadea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincolngadea&" alt="lincolngadea" /></p>
-
