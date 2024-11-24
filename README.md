@@ -3,11 +3,7 @@
 
 ![Snake animatioon](https://github.com/lincolngadea/lincolngadea/blob/master/github-user-contribution.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lincolngadea&label=Profile%20views&color=0e75b6&style=flat" alt="lincolngadea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lincolngadea" alt="lincolngadea" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lincolngadea" target="blank"><img src="https://img.shields.io/twitter/follow/lincolngadea?logo=twitter&style=for-the-badge" alt="lincolngadea" /></a> </p>
 
 - 🔭 I’m currently working on [User Managment](https://github.com/lincolngadea/gerenciador-de-usuarios-javascript)
 
