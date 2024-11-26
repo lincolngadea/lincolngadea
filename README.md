@@ -1,5 +1,5 @@
-<h1 align="center">Faaala Turma👋❗ Aqui o Lincoln Gadéa do Brasil 🇧🇷 para o Mundo 🌎</h1>
-<h3 align="center">Sou um ☕Dev Backend🥸 na 🚀Zup Innovation🚀 e um 🕛LIFE LONG LEARNING🕡</h3>
+# Faaala Turma👋❗ Aqui o Lincoln Gadéa do Brasil 🇧🇷 para o Mundo 🌎
+## Sou um ☕Dev Backend🥸 na 🚀Zup Innovation🚀 e um 🕛LIFE LONG LEARNING🕡
 
 ![Snake animatioon](https://github.com/lincolngadea/lincolngadea/blob/master/github-user-contribution.svg)
 
