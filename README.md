@@ -1,4 +1,4 @@
-# Faaala Turma👋❗ Aqui o Lincoln Gadéa do Brasil 🇧🇷 para o Mundo 🌎
+# Fala Turma👋❗ Aqui o Lincoln Gadéa do Brasil 🇧🇷 para o Mundo 🌎
 ## Sou um ☕Dev Backend🥸 na 🚀Zup Innovation🚀 e um 🕛LIFE LONG LEARNING🕡
 
 ![Snake animatioon](https://github.com/lincolngadea/lincolngadea/blob/master/github-user-contribution.svg)
